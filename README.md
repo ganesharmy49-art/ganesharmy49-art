@@ -5,7 +5,6 @@
 I'm a Computer Science student interested in software development, AI, and building practical applications.
 
 - 🎓 B.Sc. Computer Science student
-- 🚀 Currently building **CampusAI — AI College Knowledge Assistant**
 - 🌱 Learning Python, JavaScript, React, FastAPI, and MongoDB
 - 💡 Interested in AI, Web Development, and Software Engineering
 - 🎯 Focused on learning through real-world projects
