@@ -2,12 +2,12 @@
 
 ### B.Sc. Computer Science Student | Aspiring Software Developer
 
-I'm a Computer Science student interested in software development, AI, and building practical applications.
+I'm a Computer Science student interested in software development and building practical applications.
 
 - 🎓 B.Sc. Computer Science student
-- 🌱 Learning Python, JavaScript, React, FastAPI, and MongoDB
+- 🌱 Currently learning Python, JavaScript, and Web Development
 - 💡 Interested in AI, Web Development, and Software Engineering
-- 🎯 Focused on learning through real-world projects
+- 🎯 Focused on learning through practice and personal projects
 
 ---
 
@@ -15,29 +15,17 @@ I'm a Computer Science student interested in software development, AI, and build
 
 | Category | Technologies |
 |---|---|
-| Languages | Python, JavaScript, SQL |
+| Programming | Python, JavaScript, SQL |
 | Frontend | HTML, CSS, React |
 | Backend | Python, FastAPI |
 | Database | MongoDB |
 | Tools | Git, GitHub, VS Code |
 
-## 🚀 Featured Project
-
-### CampusAI — AI College Knowledge Assistant
-
-A multilingual AI-powered platform designed to help college students access academic information in English, Hindi, and Gujarati.
-
-**Technology Stack:** React, Python, FastAPI, MongoDB, RAG
-
-🔗 [View CampusAI Repository](https://github.com/ganesharmy49-art/AI-College-Knowledge-Assistant)
-
----
-
 ## 📚 Currently Learning
 
 - Full-stack web development
 - Python backend development
-- AI and Retrieval-Augmented Generation (RAG)
+- AI fundamentals
 - Database management
 
 ## 📫 Connect With Me
@@ -46,4 +34,4 @@ A multilingual AI-powered platform designed to help college students access acad
 
 ---
 
-*Learning by building. Improving with every project.*
+*Learning by building. Improving with every step.*
